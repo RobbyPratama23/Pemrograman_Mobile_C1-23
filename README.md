@@ -1,6 +1,8 @@
-# posttest_2
+# POSTTEST 2
 
-A new Flutter project.
+Bank Mini Project
+Nama : Robby Pratama
+NIM : 2309106113
 
 ## Getting Started
 
